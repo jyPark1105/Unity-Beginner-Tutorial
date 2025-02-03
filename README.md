@@ -13,3 +13,6 @@ Studying the 88 sections of the Unity beginner tutorial available on YouTube.
 - Unity 6(6000.0.36f1)
 - Microsoft Visual Studio Community 2022
 - Editor
+
+# Upload Method
+- Uploading a compilation of project progress while watching videos.
